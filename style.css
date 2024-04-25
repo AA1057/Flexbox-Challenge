@@ -30,6 +30,8 @@
     color: #824936;
     text-align: center;
     max-width: 20ch;
+    line-height: 1;
+    margin-top: 1rem;
 }
 
 .container-size {
@@ -42,7 +44,6 @@
     font-weight: 900;
     text-align: center;
     color: #824936;
-
 }
 
 .heading-2 {
